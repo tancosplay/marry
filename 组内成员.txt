@@ -1,6 +1,0 @@
-黄祺 42017013 前端js代码，java后端Mytils工具类编写，solidity 区块链judge_govern、judge_sig函数编写，ubuntu、fisco、webase、node、java等环境安装配置、项目视频讲解
-
-尚萍伟 42017019 前端页面html css 设计，项目测试
-商远韬 42017002 springboot环境配置和controller编写
-沈贝尼 42017030 solidity区块链函数编写，文档撰写
-
